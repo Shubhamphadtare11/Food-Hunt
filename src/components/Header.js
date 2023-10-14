@@ -31,6 +31,7 @@ const Header = () => {
         {/* <CiLocationOn className="font-bold text-2xl" /> */}
       </div>
       <ul className='hidden sm:flex'>
+        <li className='sm:mr-7 mr-14'>Online Status: {isOnline ? "🟢" : "🔴"}</li>
         <li className='sm:mr-7 group hover:text-orange-500 mr-14 '>
           <Link
             to='/search'
