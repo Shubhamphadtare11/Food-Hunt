@@ -1,5 +1,5 @@
 HI, npm is ready
-latest push to new machine
+latest push to new machine.
 
 # Parcel
 -Dev Build
