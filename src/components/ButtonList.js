@@ -2,7 +2,7 @@ import React from 'react'
 import Buttons from './Buttons'
 
 const ButtonList = () => {
-  const buttons = ["Filter","Sort By", "Fast Delivery", "New to Swiggy", "Rating 4.0+", "Pure Veg","Rs. 300-Rs. 600","Less then 300"]  
+  const buttons = ["Filter","Sort By", "Fast Delivery", "New to Swiggy", "Rating 4.0+", "Pure Veg","Rs. 300-Rs. 600","Less than 300"]  
   return (
     <div className=''>
         {

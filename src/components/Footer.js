@@ -23,7 +23,7 @@ const Footer = () => {
           <h2 className='text-lg font-bold'>Company</h2>
           <ul>
             <li className='my-4'>
-              <Link to='https://www.linkedin.com/in/supershivam/' target="_blank" className='text-gray-300 hover:text-white transition duration-300'>
+              <Link to='https://github.com/Shubhamphadtare11' target="_blank" className='text-gray-300 hover:text-white transition duration-300'>
                 About
               </Link>
             </li>

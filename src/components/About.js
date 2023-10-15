@@ -28,7 +28,7 @@ class About extends React.Component {
       </p>
       </div>
       {/* <Profile name="Ashish"/> */}
-      <ProfileClass fname="Shivam " lname={"Maurya"} age={22} />
+      <ProfileClass fname="Shubham " lname={"Phadtare"} age={25} />
       </>
     )
   }
